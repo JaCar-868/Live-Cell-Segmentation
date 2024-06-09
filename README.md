@@ -7,3 +7,25 @@ This project focuses on building a machine learning model to segment and analyze
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/live-cell-segmentation.git
+Navigate to the project directory:
+bash
+Copy code
+cd live-cell-segmentation
+Install required packages:
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+Load data:
+Place your live-cell imaging data in the data/ directory.
+Train the model:
+bash
+Copy code
+python live_cell_segmentation.py
+Evaluate and visualize results:
+The model's performance can be evaluated using the provided evaluation scripts.
+Contributing
+Please open an issue or submit a pull request for any contributions.
+
+License
+This project is licensed under the MIT License.
