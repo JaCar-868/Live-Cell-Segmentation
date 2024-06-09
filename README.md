@@ -9,6 +9,7 @@ This project focuses on building a machine learning model to segment and analyze
    git clone https://github.com/your_username/live-cell-segmentation.git
 Navigate to the project directory:
 bash
+
 Copy code
 cd live-cell-segmentation
 Install required packages:
