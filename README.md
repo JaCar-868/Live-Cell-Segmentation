@@ -23,9 +23,11 @@ Place your live-cell imaging data in the data/ directory.
 
 ## Train the model:
 bash
-Copy code
+
 python live_cell_segmentation.py
-Evaluate and visualize results:
+
+## Evaluate and visualize results:
+
 The model's performance can be evaluated using the provided evaluation scripts.
 
 
