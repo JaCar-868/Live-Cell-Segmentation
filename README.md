@@ -18,6 +18,7 @@ bash
 pip install -r requirements.txt
 ## Usage
 Load data:
+
 Place your live-cell imaging data in the data/ directory.
 
 ## Train the model:
