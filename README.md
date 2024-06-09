@@ -8,21 +8,21 @@ This project focuses on building a machine learning model to segment and analyze
    ```bash
    git clone https://github.com/your_username/live-cell-segmentation.git
    
-Navigate to the project directory:
-bash
+2. Navigate to the project directory:
 
 cd live-cell-segmentation
-Install required packages:
-bash
+
+3. Install required packages:
 
 pip install -r requirements.txt
+
+
 ## Usage
 Load data:
 
 Place your live-cell imaging data in the data/ directory.
 
 ## Train the model:
-bash
 
 python live_cell_segmentation.py
 
